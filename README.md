@@ -1,7 +1,7 @@
 ## 💻 Tutorial gratuito online de Programador Web en Coderhouse! 👊
 Desarrollaremos una pequeña actividad para dar los primeros pasos con Javascript
 
-### Curso online en Udemy
+### Tutorial online en Coderhouse
 
 👉 https://www.coderhouse.com/
 
